@@ -2,11 +2,10 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Документ без названия</title>
+<title>Что-то с чем то</title>
 </head>
 
 <body>
-	Просто что-то пишем....
-	<br>Ещё что-то
+	Hello world
 </body>
 </html>
